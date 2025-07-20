@@ -42,7 +42,7 @@
 //         console.log("Invalid Day");
 // }
 
-
+// ! I Learn Javascript in regularly..........
 
 let arryItems = [2,4,6,8,10,12];
 let objeItems = {
@@ -68,3 +68,4 @@ if(arrayAndobjectItem == 'array'){
 }else{
     console.log(`${invalid}`)
 }
+
